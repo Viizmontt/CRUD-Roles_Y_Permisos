@@ -1,0 +1,92 @@
+.btn-purple {
+    color: #ffffff; /* Color del texto */
+    background-color: #5a2456; /* Color de fondo */
+    border-color: #5a2456; /* Color del borde */
+}
+.btn-yellow {
+    background-color: #f9ba0d;
+    border-color: #f9ba0d;
+    color: #fff;
+}
+.btn-green {
+    background-color: #7ab742;
+    border-color: #7ab742;
+    color: #fff;
+}
+.btn-fucsia { 
+    background-color: #a50c5f;
+    border-color: #a50c5f;
+    color: #fff;
+}
+.btn-indicator {
+    background-color: #06416A;
+    border-color: #06416A;
+    color: #fff;
+}
+.btn-result {
+    background-color: #5A2456;
+    border-color: #5A2456;
+    color: #fff;
+}
+.btn-file {
+    background-color: #06416A;
+    border-color: #06416A;
+    color: #fff;
+}
+.btn-activity {
+    background-color: #5A2456;
+    border-color: #5A2456;
+    color: #fff;
+}.btn-see {
+    background-color: #B57EB5;
+    border-color: #B57EB5;
+    color: #fff;
+}
+
+.bg-fucsia {
+    background-color: #e91e63; /* Color fucsia */
+    border-color: #e91e63; /* Color fucsia */
+    color: #fff; /* Color de texto blanco */
+}
+
+    .small-text-table {
+        font-size: 0.85rem; /* Ajusta el tamaño según tus necesidades */
+    }
+
+/*
+
+.barra{
+    background-color: #5A2456; 
+}
+
+
+.main-sidebar.sidebar-dark-dark {
+    background-color: #5a2456; 
+    color: #ffffff; 
+}
+
+.main-sidebar.sidebar-dark-dark .nav-link {
+    color: #ffffff; 
+}
+
+.main-sidebar.sidebar-dark-dark .nav-link:hover {
+    background-color: #4a1e41; 
+    color: #ffffff; 
+}
+
+.main-sidebar.sidebar-dark-dark .nav-icon {
+    color: #ffffff; 
+}
+
+.main-sidebar.elevation-4 {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+}
+
+.main-sidebar {
+    transition: background-color 0.3s ease; 
+}
+
+.navbar-custom {
+    background-color: #5A2456;
+  }
+  */
